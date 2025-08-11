@@ -29,8 +29,10 @@ Conditional Formatting – Highlighted performance patterns.
 
 📂 Repository Contents
 File	Description
-Call Center Dashboard.xlsx	Main Excel file with fully interactive dashboard
-dashboard.png	Static preview of the dashboard
+Call Center Dashboard.xlsx	
+Main Excel file with fully interactive dashboard
+dashboard.png	
+Static preview of the dashboard
 
 🚀 How to Use
 Download and open Call Center Dashboard.xlsx in Excel 2016 or later.
@@ -52,5 +54,6 @@ Data cleaning & transformation (Power Query)
 KPI analysis & summarization (Pivot Tables)
 
 Dashboard design & storytelling
+
 
 Interactive Excel features (Slicers, Map Charts)
