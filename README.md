@@ -1,5 +1,5 @@
 📊 Sales KPI Dashboard – Excel Project
-Overview
+
 This project is an interactive Excel dashboard built to evaluate and monitor key sales performance indicators (KPIs).
 It provides a visual, filterable, and data-driven view of sales activity, helping identify trends, measure performance, and support decision-making.
 
@@ -57,5 +57,6 @@ Dashboard design & storytelling
 
 
 Interactive Excel features (Slicers, Map Charts)
+
 
 
