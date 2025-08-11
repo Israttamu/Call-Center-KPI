@@ -31,7 +31,7 @@ Conditional Formatting – Highlighted performance patterns.
 File	Description
 Call Center Dashboard.xlsx	
 Main Excel file with fully interactive dashboard
-dashboard.png	
+![Sales KPI Dashboard](dashboard.png)
 Static preview of the dashboard
 
 🚀 How to Use
@@ -57,3 +57,4 @@ Dashboard design & storytelling
 
 
 Interactive Excel features (Slicers, Map Charts)
+
